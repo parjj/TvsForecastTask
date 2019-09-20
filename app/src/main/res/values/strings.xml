@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TVSForecast</string>
+    <string name="region">Region</string>
+    <string name="date_and_time">Date and Time</string>
+    <string name="shows_sunny_cloudy_rain">Shows sunny/cloudy/rain</string>
+    <string name="tempearture">Tempearture</string>
+    <string name="feels_like">Feels like</string>
+     <string name="daily">Daily</string>
+    <string name="summary">summary</string>
+    <string name="rain_cloudy">rain/cloudy</string>
+    <string name="day">day</string>
+    <string name="high">High :</string>
+    <string name="high_high">high</string>
+    <string name="Low">Low :</string>
+    <string name="low">low</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+</resources>
